@@ -1,0 +1,1 @@
+# iOS-HacomaModule-CocoaPods-Specs
